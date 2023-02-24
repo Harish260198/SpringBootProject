@@ -16,7 +16,7 @@ import com.springbt.employee.Model.EmployeeModel;
 import com.springbt.employee.Service.EmpolyeeService;
 
 @RestController
-@RequestMapping("/main")
+@RequestMapping("/")
 public class EmployeeController {
 
 	@Autowired
